@@ -1,4 +1,4 @@
-MEO Remote - NodeJS Client
+MEO Remote - NodeJS
 ====================
 
 Control your MEOBox with NodeJS, it's so simple!
@@ -13,9 +13,9 @@ And that's it!
 
 ### Configuration
 
-You need to change the host IP. You can access the IP address of the MEOBox in the router page.
+You'll need to change the host IP. You can access the IP address of the MEOBox in the router page.
 
-You can also change the characterKey variable to access different features
+You can access the following characterKeys
 
     number_0        characterKey=48
     number_1        characterKey=49
