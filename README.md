@@ -5,7 +5,7 @@ Control your MEOBox with NodeJS, it's so simple!
 
 You'll need node.js to run it. Get it at [www.nodejs.org](http://www.nodejs.org).
 
-Next, run meo_remote.js through node program:
+Next, run meo_remoteControl.js through node program:
 
     $ node meo_remoteControl.js
 
