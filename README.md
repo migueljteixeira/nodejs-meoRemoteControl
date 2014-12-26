@@ -7,7 +7,7 @@ You'll need node.js to run it. Get it at [www.nodejs.org](http://www.nodejs.org)
 
 Next, run meo_remote.js through node program:
 
-    $ node meo_remote.js
+    $ node meo_remoteControl.js
 
 And that's it!
 

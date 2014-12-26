@@ -1,15 +1,15 @@
-var net = require('net')
-  , socket = net.Socket()
-  , readline = require('readline');
+var net = require('net');
+var socket = net.Socket();
+var readline = require('readline');
 
-var host = '192.168.1.100'
-  , port = 8082
-  , rl = readline.createInterface({
+var host = '192.168.1.100';
+var port = 8082;
+var rl = readline.createInterface({
 		input: process.stdin,
 		output: process.stdout
 	});
 
-// Tests if host is an IP address
+// Test if host is an IP address
 if(net.isIP(host) == 0 ? console.log('Invalid IP Address.') : '');
 
 // Prompt user for character key
